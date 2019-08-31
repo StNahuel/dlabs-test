@@ -18,6 +18,8 @@
     - Transaction code could be improved.
     - For the money exchange feature I think the best solution is an external API, but couldn't find one that helps quickly.
     - Currency model could be improved
+    
+    Note: Maybe the whole login part wasn't necessary
 
 ### Tech
 
